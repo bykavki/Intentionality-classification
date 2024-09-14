@@ -1,0 +1,4 @@
+.DS_store
+Plots/
+Intentionality_logs/
+server/intent_models
