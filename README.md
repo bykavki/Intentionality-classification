@@ -1,1 +1,1 @@
-# Fine-tuning DistilBERS для классификации интенциональностей
+# Fine-tuning DistilBERT для классификации интенциональностей
